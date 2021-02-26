@@ -48,7 +48,7 @@ private:
     int x;                              //
     int count;                          //счетчик жизней
     int timerId;                        //уникальный идентификатор таймера
-    static const int N_OF_BRICKS = 30;  //кол-во кирпичиков
+    static const int N_OF_BRICKS = 20;  //кол-во кирпичиков
     static const int DELAY = 10;        //
     static const int BOTTOM_EDGE = 400; //положение нижней границы
 
